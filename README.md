@@ -1,2 +1,5 @@
-# ecompix-tool
-Free browser-based batch image processor for e-commerce.
+# EcomPix
+
+Free, privacy-first batch image processor for e-commerce sellers.
+
+🌐 **Website:** [https://ecompix.net](https://ecompix.net)
